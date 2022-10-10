@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-family:fantasy;
+    font-size:xx-large;
+    color: rgb(134, 163, 163);
+}
+
+div {
+display: flex;
+align-items:center;
+font-family:monospace;
+font-size: x-large;
+color:rgb(108, 107, 107);
+}
+
+p1{
+    font-family:fantasy;
+    color:rgb(134, 163, 163);
+    font-size:xx-large;
+    align-items:baseline;
+}
+p2{
+    font-family: monospace;
+    color:rgb(108, 107, 107);
+    font-size: x-large;
+    text-align: end;
+}
